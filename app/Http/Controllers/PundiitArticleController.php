@@ -7,7 +7,7 @@ use Illuminate\Http\Request;
 //import the relevant classes
 use App\Http\Requests;
 use App\Pundiitarticle;
-use App\Http\Resources\Pundiitarticle as PundiitarticleResource;
+use App\Http\Resources\PundiitArticle as PundiitarticleResource;
 
 class PundiitArticleController extends Controller
 {
